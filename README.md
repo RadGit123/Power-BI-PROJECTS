@@ -2,7 +2,7 @@
 **This project demonstrates basic data  cleaning & transformations techniques in power BI**.
 
 
-### KEY FEATURESINCLUDED
+### KEY FEATURES INCLUDED
 
 ######  1.DATA CLEANING
 
