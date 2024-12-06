@@ -1,8 +1,8 @@
 # Power BI_PROJECT_1
-**This project demonstrates basic data transfromation techniques in power BI**.
+**This project demonstrates basic data  cleaning & transformations techniques in power BI**.
 
 
-### KEY FEATURES
+### KEY FEATURESINCLUDED
 
 ######  1.DATA CLEANING
 
@@ -10,7 +10,7 @@
   
   *Removed unimportant columns*.
   
-  *Remove duplicate rows*.
+  *Removed duplicate rows*.
   
   *Replaced null values*.
   
@@ -20,7 +20,7 @@
 
    *Changed data type*.
   
-   *Added new column and replace with an exisiting column*.
+   *Added new column and replaced exisiting column with updated values*.
   
 ##### 3.DATA MODELING
 
