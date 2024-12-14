@@ -24,7 +24,7 @@ This Assignment is a simple Data Analysis using Power BI.
  *Established relationship between exisisting tales*.
 
 ##### 4.VISUALIZATION
-* ###### Tools used: Maps,Matrix,Table,slicer,drill through,Bookmarks,Bar Graph*
+* ###### Tools used: Maps,Matrix,Table,slicer,drill through,Bookmarks,Bar Graph,Pi Diagram.*
  
   1    Region wise Sales analysis.
   
