@@ -24,17 +24,17 @@ This Assignment is a simple Data Analysis using Power BI.
  *Established relationship between exisisting tales*.
 
 ##### 4.VISUALIZATION
-* ###### Tools used: Maps,Matrix,Table,slicer,drill throgh,Bookmarks,scatterplot,bar graph,stacked bar graph*
+* ###### Tools used: Maps,Matrix,Table,slicer,drill through,Bookmarks,Bar Graph*
  
   1    Region wise Sales analysis.
   
-       Total sale over region is analyzed and used drill though option to navigate to corresponding city and market wise sales.
+       Total sale over region is analyzed ( Used drill though option to navigate to corresponding city and market wise sales).
 
   2    Shipping Percentage.
   
-       visualized total shipping percentage corresponding to shipping mode.
+       Visualized total shipping percentage corresponding to shipping mode.
   
 
-  3    Examined the relatuonship between Total sales and shipping percentage.
+  3    Examined the relationship between Total sales and shipping percentage.
 
 
