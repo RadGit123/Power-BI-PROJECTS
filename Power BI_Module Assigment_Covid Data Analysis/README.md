@@ -12,7 +12,7 @@ Established relationship between exisisting tales.
 Tools used: Maps,Matrix,Table,slicer,drill through,Bookmarks,Bar Graph,Pi Diagram.*
 
 
-1* Covid cases ,death,recovery,active casesper 1m population in each country.*
+1.*Covid cases ,death,recovery,active casesper 1m population in each country.*
 
 2.*Covid death per 1m population in each country.*
 
