@@ -1,4 +1,4 @@
-This Assignment is a Covid dat set Analysis using Power BI.
+*This Assignment is a Covid dat set Analysis using Power BI*.
 
 BSIC STEPS
 
@@ -12,16 +12,16 @@ Established relationship between exisisting tales.
 Tools used: Maps,Matrix,Table,slicer,drill through,Bookmarks,Bar Graph,Pi Diagram.*
 
 
-1 Covid cases ,death,recovery,active casesper 1m population in each country.
+1* Covid cases ,death,recovery,active casesper 1m population in each country.*
 
-2.Covid death per 1m population in each country.
+2*.Covid death per 1m population in each country.*
 
-3.Covid  per 1m population in each country.
+3.*Covid  per 1m population in each country.*
 
-4.Covid death rate per tests.
+4.*Covid death rate per tests.*
 
-5.tests per 1m population
+5.*Tests per 1m population*.
 
-6.Report of analysis.
+6.*Report of analysis.*
 
 
