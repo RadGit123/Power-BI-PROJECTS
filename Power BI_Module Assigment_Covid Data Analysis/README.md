@@ -1,18 +1,9 @@
 This Assignment is a Covid dat set Analysis using Power BI.
 
-##BSIC STEPS
+BSIC STEPS
 
 1.DATA CLEANING
-
-Removed empty rows.
-
-Removed unimportant columns.
-
-Removed duplicate rows.
-
-Replaced null values.
-
-Trim and Clean
+Removed empty rows,Removed unimportant columns,Removed duplicate rows,Replaced null values,Trim and Clean.
 
 2.DATA TRANSFOMATION
 Changed data type.
