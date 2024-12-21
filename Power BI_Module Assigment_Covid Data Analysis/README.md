@@ -1,6 +1,6 @@
 *This Assignment is a Covid dat set Analysis using Power BI*.
 
-BSIC STEPS
+# BSIC STEPS
 
 1.Data Cleaning.
 Removed empty rows,Removed unimportant columns,Removed duplicate rows,Replaced null values,Trim and Clean.
@@ -11,13 +11,21 @@ Established relationship between exisisting tales.
 4.Visualization.
 Tools used: Maps,Matrix,Table,slicer,drill through,Bookmarks,Bar Graph,Pi Diagram.*
 
+5.Report
 
-1.*Covid cases ,death,recovery,active cases per 1m population in each country.*
+*Conducted a comphrehensive analysis of COVID-19  data fro  ultiple countries,calculating key matrics such as death rate,recovery rate,active cases and the number of cases,number of tests..per 1 miliion population.
+All calculations were normalized to per million population fro comparability*.
 
-2.*Covid death rate per tests.*
+Based on the analysis :
 
-3.*Tests per 1m population*.
-
-4.*Report of analysis.*
+ Country with Test Positive Rate is high in the country -Sudan.
+ Highest test positive rate WHO region-Americas -Suriname.
+ Country with High number of cases per 1 million population-Qatar
+ Country with High number of death per 1 million population-Vatican city
+ Country with High number of tets per 1 million population-Vatican city
+ Country with High number of recovery per 1 million population-Qatar
+ Country with High number of active per 1 million population-USA
+ Country with highest number of cases based on average number of cases repoeted maong all countires-USA
+ 
 
 
