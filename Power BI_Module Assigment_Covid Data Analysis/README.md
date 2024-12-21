@@ -20,19 +20,27 @@ All calculations were normalized to per million population fro comparability*.
 
  *Country with  Highest Test Positive Rate  -Sudan*.
  
+ Country with  Lowest Test Positive Rate  -Western sahara*.
+ 
  *Highest test positive rate WHO region-Americas -Suriname*.
  
  *Country with highest number of cases based on average number of cases repoeted among all countires-USA*
  
  *Country with High number of cases per 1 million population-Qatar*
  
+ *Country with Lest number of cases per 1 million population-Laos*
+ 
  *Country with High number of death per 1 million population-Vatican city*
  
+  *Country with Least number of death per 1 million population-Burundi*
+  
  *Country with High number of tets per 1 million population-Vatican city*
  
  *Country with High number of recovery per 1 million population-Qatar*
  
- *Country with High number of active per 1 million population-USA*
+ *Country with Lest number of recovery per 1 million population-Laos*
+ 
+ *Country with High number of active cases per 1 million population-USA*
  
  
 
