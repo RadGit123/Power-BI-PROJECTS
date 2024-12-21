@@ -43,5 +43,5 @@ All calculations were normalized to per million population fro comparability*.
  *Country with High number of active cases per 1 million population-USA*
  
  
-
+*Data set country wise is uploaded .
 
