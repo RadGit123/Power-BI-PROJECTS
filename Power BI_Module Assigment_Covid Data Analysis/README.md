@@ -7,7 +7,7 @@ Removed empty rows,Removed unimportant columns,Removed duplicate rows,Replaced n
 2.Data Transformation.
 Changed data type.
 3.Data Modeling.
-Established relationship between exisisting tables.
+Established relationship between existing tables.
 4.Visualization.
 Tools used: Maps,Matrix,Table,slicer,drill through,Bookmarks,Bar Graph,Pi Diagram.
 
@@ -22,6 +22,8 @@ All calculations were normalized to per million population fro comparability*.
  
  *Highest test positive rate WHO region-Americas -Suriname*.
  
+ *Country with highest number of cases based on average number of cases repoeted among all countires-USA*
+ 
  *Country with High number of cases per 1 million population-Qatar*
  
  *Country with High number of death per 1 million population-Vatican city*
@@ -32,7 +34,6 @@ All calculations were normalized to per million population fro comparability*.
  
  *Country with High number of active per 1 million population-USA*
  
- *Country with highest number of cases based on average number of cases repoeted maong all countires-USA*
  
 
 
